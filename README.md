@@ -23,14 +23,14 @@ The dataset used in this project includes credit card transactions from the west
 ## Libraries
 This project utilizes various Python libraries:
 
-pandas: For data manipulation and analysis.
-numpy: For numerical operations.
-seaborn: For statistical data visualization.
-matplotlib.pyplot: For static plotting.
-plotly.express and plotly.graph_objects: For interactive visualizations.
-scikit-learn: For machine learning, including:
-train_test_split and GridSearchCV for model evaluation and hyperparameter tuning.
-accuracy_score, classification_report, and confusion_matrix for performance metrics.
-LogisticRegression, SVC, and RandomForestClassifier for classification algorithms.
-LabelEncoder and StandardScaler for data preprocessing.
+- pandas: For data manipulation and analysis.
+- numpy: For numerical operations.
+- seaborn: For statistical data visualization.
+- matplotlib.pyplot: For static plotting.
+- plotly.express and plotly.graph_objects: For interactive visualizations.
+- scikit-learn: For machine learning, including:
+- train_test_split and GridSearchCV for model evaluation and hyperparameter tuning.
+- accuracy_score, classification_report, and confusion_matrix for performance metrics.
+- LogisticRegression, SVC, and RandomForestClassifier for classification algorithms.
+- LabelEncoder and StandardScaler for data preprocessing.
 
