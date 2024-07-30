@@ -1,8 +1,8 @@
 # Credit-card-Fraud-detection-analysis
-Data link : [https://www.kaggle.com/datasets/neharoychoudhury/credit-card-fraud-data]
+`Data link` : [https://www.kaggle.com/datasets/neharoychoudhury/credit-card-fraud-data]
 
 ### To visualise the interactive plots using plotly, refer:
-Data link : [ https://www.kaggle.com/code/neharoychoudhury/credit-card-fraud-detection-analysis/edit]
+`Code link` : [https://www.kaggle.com/code/neharoychoudhury/credit-card-fraud-detection-analysis]
 
 ## Overview
 The Credit Card Fraud Prediction project aims to develop a machine learning-based system to detect fraudulent transactions. By analyzing various features of credit card transactions, the goal is to create a model that accurately identifies fraudulent activities, helping to reduce financial losses and enhance transaction security.
