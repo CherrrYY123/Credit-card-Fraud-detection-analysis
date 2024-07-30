@@ -10,14 +10,14 @@ The Credit Card Fraud Prediction project aims to develop a machine learning-base
 ## Dataset
 The dataset used in this project includes credit card transactions from the western United States. It contains 14,446 entries with the following columns:
 
-trans_date_trans_time: The exact date and time of the transaction.
-amt: The transaction amount.
-city: Customer's city.
-state: Customer's state.
-lat: Latitude of the customer's location.
-long: Longitude of the customer's location.
-dob: Customer's date of birth (used to derive age).
-is_fraud: Binary indicator (0 or 1) of whether the transaction was fraudulent.
+- trans_date_trans_time: The exact date and time of the transaction.
+- amt: The transaction amount.
+- city: Customer's city.
+- state: Customer's state.
+- lat: Latitude of the customer's location.
+- long: Longitude of the customer's location.
+- dob: Customer's date of birth (used to derive age).
+- is_fraud: Binary indicator (0 or 1) of whether the transaction was fraudulent.
 
 
 ## Libraries
