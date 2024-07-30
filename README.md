@@ -4,10 +4,10 @@ Data link : [https://www.kaggle.com/datasets/neharoychoudhury/credit-card-fraud-
 ### To visualise the interactive plots using plotly, refer:
 Data link : [ https://www.kaggle.com/code/neharoychoudhury/credit-card-fraud-detection-analysis/edit]
 
-##Overview
+## Overview
 The Credit Card Fraud Prediction project aims to develop a machine learning-based system to detect fraudulent transactions. By analyzing various features of credit card transactions, the goal is to create a model that accurately identifies fraudulent activities, helping to reduce financial losses and enhance transaction security.
 
-##Dataset
+## Dataset
 The dataset used in this project includes credit card transactions from the western United States. It contains 14,446 entries with the following columns:
 
 trans_date_trans_time: The exact date and time of the transaction.
@@ -20,7 +20,7 @@ dob: Customer's date of birth (used to derive age).
 is_fraud: Binary indicator (0 or 1) of whether the transaction was fraudulent.
 
 
-##Libraries
+## Libraries
 This project utilizes various Python libraries:
 
 pandas: For data manipulation and analysis.
